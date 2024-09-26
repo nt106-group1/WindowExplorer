@@ -1,6 +1,6 @@
 ﻿namespace FileExplorer
 {
-    partial class Form1
+    partial class Explorer
     {
         /// <summary>
         ///  Required designer variable.
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Explorer));
             splitContainer1 = new SplitContainer();
             panel1 = new Panel();
             btnForward = new Button();
@@ -149,7 +149,6 @@
             listView1.TabIndex = 0;
             listView1.UseCompatibleStateImageBehavior = false;
             listView1.View = View.Details;
-            listView1.SelectedIndexChanged += listView1_SelectedIndexChanged;
             // 
             // imageList1
             // 

@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\NT106\\WindowsExplorer\\FileExplorer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26A15CBE-70FA-4B5E-BE26-A28DC2F926EC}|FileExplorer\\FileExplorer.csproj|d:\\nt106\\windowsexplorer\\fileexplorer\\fileexplorer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26A15CBE-70FA-4B5E-BE26-A28DC2F926EC}|FileExplorer\\FileExplorer.csproj|solutionrelative:fileexplorer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26A15CBE-70FA-4B5E-BE26-A28DC2F926EC}|FileExplorer\\FileExplorer.csproj|d:\\nt106\\windowsexplorer\\fileexplorer\\fileexplorer\\pictureviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A15CBE-70FA-4B5E-BE26-A28DC2F926EC}|FileExplorer\\FileExplorer.csproj|solutionrelative:fileexplorer\\pictureviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26A15CBE-70FA-4B5E-BE26-A28DC2F926EC}|FileExplorer\\FileExplorer.csproj|D:\\NT106\\WindowsExplorer\\FileExplorer\\fileexplorer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{26A15CBE-70FA-4B5E-BE26-A28DC2F926EC}|FileExplorer\\FileExplorer.csproj|solutionrelative:fileexplorer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{26A15CBE-70FA-4B5E-BE26-A28DC2F926EC}|FileExplorer\\FileExplorer.csproj|d:\\nt106\\windowsexplorer\\fileexplorer\\fileexplorer\\explorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A15CBE-70FA-4B5E-BE26-A28DC2F926EC}|FileExplorer\\FileExplorer.csproj|solutionrelative:fileexplorer\\explorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26A15CBE-70FA-4B5E-BE26-A28DC2F926EC}|FileExplorer\\FileExplorer.csproj|D:\\NT106\\WindowsExplorer\\FileExplorer\\fileexplorer\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26A15CBE-70FA-4B5E-BE26-A28DC2F926EC}|FileExplorer\\FileExplorer.csproj|solutionrelative:fileexplorer\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26A15CBE-70FA-4B5E-BE26-A28DC2F926EC}|FileExplorer\\FileExplorer.csproj|d:\\nt106\\windowsexplorer\\fileexplorer\\fileexplorer\\spnotepad.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A15CBE-70FA-4B5E-BE26-A28DC2F926EC}|FileExplorer\\FileExplorer.csproj|solutionrelative:fileexplorer\\spnotepad.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26A15CBE-70FA-4B5E-BE26-A28DC2F926EC}|FileExplorer\\FileExplorer.csproj|D:\\NT106\\WindowsExplorer\\FileExplorer\\fileexplorer\\fileexplorer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{26A15CBE-70FA-4B5E-BE26-A28DC2F926EC}|FileExplorer\\FileExplorer.csproj|solutionrelative:fileexplorer\\fileexplorer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{26A15CBE-70FA-4B5E-BE26-A28DC2F926EC}|FileExplorer\\FileExplorer.csproj|d:\\nt106\\windowsexplorer\\fileexplorer\\fileexplorer\\spnotepad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A15CBE-70FA-4B5E-BE26-A28DC2F926EC}|FileExplorer\\FileExplorer.csproj|solutionrelative:fileexplorer\\spnotepad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A15CBE-70FA-4B5E-BE26-A28DC2F926EC}|FileExplorer\\FileExplorer.csproj|d:\\nt106\\windowsexplorer\\fileexplorer\\fileexplorer\\explorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26A15CBE-70FA-4B5E-BE26-A28DC2F926EC}|FileExplorer\\FileExplorer.csproj|solutionrelative:fileexplorer\\explorer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A15CBE-70FA-4B5E-BE26-A28DC2F926EC}|FileExplorer\\FileExplorer.csproj|d:\\nt106\\windowsexplorer\\fileexplorer\\fileexplorer\\explorer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A15CBE-70FA-4B5E-BE26-A28DC2F926EC}|FileExplorer\\FileExplorer.csproj|solutionrelative:fileexplorer\\explorer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,55 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FileExplorer",
-              "DocumentMoniker": "D:\\NT106\\WindowsExplorer\\FileExplorer\\FileExplorer\\FileExplorer.csproj",
-              "RelativeDocumentMoniker": "FileExplorer\\FileExplorer.csproj",
-              "ToolTip": "D:\\NT106\\WindowsExplorer\\FileExplorer\\FileExplorer\\FileExplorer.csproj",
-              "RelativeToolTip": "FileExplorer\\FileExplorer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-26T07:13:46.761Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\NT106\\WindowsExplorer\\FileExplorer\\FileExplorer\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "FileExplorer\\Form1.Designer.cs",
-              "ToolTip": "D:\\NT106\\WindowsExplorer\\FileExplorer\\FileExplorer\\Form1.Designer.cs",
-              "RelativeToolTip": "FileExplorer\\Form1.Designer.cs",
-              "ViewState": "AgIAAJUAAAAAAAAAAADwv6kAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Explorer.Designer.cs",
+              "DocumentMoniker": "D:\\NT106\\WindowsExplorer\\FileExplorer\\FileExplorer\\Explorer.Designer.cs",
+              "RelativeDocumentMoniker": "FileExplorer\\Explorer.Designer.cs",
+              "ToolTip": "D:\\NT106\\WindowsExplorer\\FileExplorer\\FileExplorer\\Explorer.Designer.cs",
+              "RelativeToolTip": "FileExplorer\\Explorer.Designer.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAUwHoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T12:12:27.197Z"
+              "WhenOpened": "2024-09-26T09:48:55.955Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\NT106\\WindowsExplorer\\FileExplorer\\FileExplorer\\Form1.cs",
-              "RelativeDocumentMoniker": "FileExplorer\\Form1.cs",
-              "ToolTip": "D:\\NT106\\WindowsExplorer\\FileExplorer\\FileExplorer\\Form1.cs",
-              "RelativeToolTip": "FileExplorer\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "PictureViewer.cs",
+              "DocumentMoniker": "D:\\NT106\\WindowsExplorer\\FileExplorer\\FileExplorer\\PictureViewer.cs",
+              "RelativeDocumentMoniker": "FileExplorer\\PictureViewer.cs",
+              "ToolTip": "D:\\NT106\\WindowsExplorer\\FileExplorer\\FileExplorer\\PictureViewer.cs",
+              "RelativeToolTip": "FileExplorer\\PictureViewer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T12:08:34.48Z",
+              "WhenOpened": "2024-09-26T09:16:54.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\NT106\\WindowsExplorer\\FileExplorer\\FileExplorer\\Form1.cs",
-              "RelativeDocumentMoniker": "FileExplorer\\Form1.cs",
-              "ToolTip": "D:\\Computer Network Programming(Ex)\\Demo\\FileExplorer\\FileExplorer\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\Computer Network Programming(Ex)\\Demo\\FileExplorer\\FileExplorer\\Form1.cs [Design]",
+              "Title": "Explorer.cs",
+              "DocumentMoniker": "D:\\NT106\\WindowsExplorer\\FileExplorer\\FileExplorer\\Explorer.cs",
+              "RelativeDocumentMoniker": "FileExplorer\\Explorer.cs",
+              "ToolTip": "D:\\NT106\\WindowsExplorer\\FileExplorer\\FileExplorer\\Explorer.cs",
+              "RelativeToolTip": "FileExplorer\\Explorer.cs",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAmwFUBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T07:40:53.084Z"
+              "WhenOpened": "2024-09-26T09:13:19.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Explorer.cs [Design]",
+              "DocumentMoniker": "D:\\NT106\\WindowsExplorer\\FileExplorer\\FileExplorer\\Explorer.cs",
+              "RelativeDocumentMoniker": "FileExplorer\\Explorer.cs",
+              "ToolTip": "D:\\NT106\\WindowsExplorer\\FileExplorer\\FileExplorer\\Explorer.cs [Design]",
+              "RelativeToolTip": "FileExplorer\\Explorer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:13:16.284Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpNotepad.Designer.cs",
+              "DocumentMoniker": "D:\\NT106\\WindowsExplorer\\FileExplorer\\FileExplorer\\SpNotepad.Designer.cs",
+              "RelativeDocumentMoniker": "FileExplorer\\SpNotepad.Designer.cs",
+              "ToolTip": "D:\\NT106\\WindowsExplorer\\FileExplorer\\FileExplorer\\SpNotepad.Designer.cs",
+              "RelativeToolTip": "FileExplorer\\SpNotepad.Designer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:13:02.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpNotepad.cs",
+              "DocumentMoniker": "D:\\NT106\\WindowsExplorer\\FileExplorer\\FileExplorer\\SpNotepad.cs",
+              "RelativeDocumentMoniker": "FileExplorer\\SpNotepad.cs",
+              "ToolTip": "D:\\NT106\\WindowsExplorer\\FileExplorer\\FileExplorer\\SpNotepad.cs",
+              "RelativeToolTip": "FileExplorer\\SpNotepad.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAmwCIAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:12:26.976Z",
+              "EditorCaption": ""
             }
           ]
         }
