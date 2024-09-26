@@ -15,3 +15,39 @@ D:\Computer Network Programming(Ex)\Demo\FileExplorer\FileExplorer\obj\Debug\net
 D:\Computer Network Programming(Ex)\Demo\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.genruntimeconfig.cache
 D:\Computer Network Programming(Ex)\Demo\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\ref\FileExplorer.dll
 D:\Computer Network Programming(Ex)\Demo\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.Properties.Resources.resources
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\FileExplorer\bin\Debug\net8.0-windows\FileExplorer.exe
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\FileExplorer\bin\Debug\net8.0-windows\FileExplorer.deps.json
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\FileExplorer\bin\Debug\net8.0-windows\FileExplorer.runtimeconfig.json
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\FileExplorer\bin\Debug\net8.0-windows\FileExplorer.dll
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\FileExplorer\bin\Debug\net8.0-windows\FileExplorer.pdb
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.Form1.resources
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.Properties.Resources.resources
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.csproj.GenerateResource.cache
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.GeneratedMSBuildEditorConfig.editorconfig
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.AssemblyInfoInputs.cache
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.AssemblyInfo.cs
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.csproj.CoreCompileInputs.cache
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.sourcelink.json
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.dll
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\refint\FileExplorer.dll
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.pdb
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.genruntimeconfig.cache
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\ref\FileExplorer.dll
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\bin\Debug\net8.0-windows\FileExplorer.exe
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\bin\Debug\net8.0-windows\FileExplorer.deps.json
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\bin\Debug\net8.0-windows\FileExplorer.runtimeconfig.json
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\bin\Debug\net8.0-windows\FileExplorer.dll
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\bin\Debug\net8.0-windows\FileExplorer.pdb
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.Form1.resources
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.Properties.Resources.resources
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.csproj.GenerateResource.cache
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.GeneratedMSBuildEditorConfig.editorconfig
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.AssemblyInfoInputs.cache
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.AssemblyInfo.cs
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.csproj.CoreCompileInputs.cache
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.sourcelink.json
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.dll
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\refint\FileExplorer.dll
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.pdb
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\FileExplorer.genruntimeconfig.cache
+D:\NT106\WindowsExplorer\FileExplorer\FileExplorer\obj\Debug\net8.0-windows\ref\FileExplorer.dll
